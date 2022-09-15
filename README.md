@@ -41,7 +41,7 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- What code editor are you using?
+- URL to live application: https://prof-tejera.github.io/homework-2-karkrish2009/
+- What code editor are you using? Atom
 
 That is all!
